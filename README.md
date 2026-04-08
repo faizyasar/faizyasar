@@ -15,5 +15,6 @@ Graduate of Torrens University — Bachelor of Business (Marketing).
 
 ## Find me
 - 🌐 [faiz.uwu.ai](https://faiz.uwu.ai)
+- 🌑 [lnrtdka.drr.ac](https://lnrtdka.drr.ac/)
 - 💼 [linkedin.com/in/faizyasar](https://linkedin.com/in/faizyasar)
 - 🎨 [behance.net/faizyasar](https://behance.net/faizyasar)
