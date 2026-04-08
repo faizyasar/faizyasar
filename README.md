@@ -1,16 +1,19 @@
-## Hi there 👋
+# Faiz Yasar
 
-<!--
-**faizyasar/faizyasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sydney-based marketer, graphic designer & photographer.
+Graduate of Torrens University — Bachelor of Business (Marketing).
 
-Here are some ideas to get you started:
+## What I do
+- Creative strategy & integrated marketing communications
+- Graphic design & visual identity
+- Photography
+- Brand storytelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Open to junior, graduate & freelance opportunities in Sydney
+- Building DEKA — a graphic design practice active since 2019
+
+## Find me
+- 🌐 [faiz.uwu.ai](https://faiz.uwu.ai)
+- 💼 [linkedin.com/in/faizyasar](https://linkedin.com/in/faizyasar)
+- 🎨 [behance.net/faizyasar](https://behance.net/faizyasar)
