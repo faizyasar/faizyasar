@@ -3,10 +3,10 @@
 Sydney-based marketer, graphic designer & photographer.
 Graduate of Torrens University — Bachelor of Business (Marketing).
 
-Creative strategy & integrated marketing communications
-Graphic design & visual identity
-Photography
-Brand storytelling
+- Creative strategy & integrated marketing communications
+- Graphic design & visual identity
+- Photography
+- Brand storytelling
 
 
 
