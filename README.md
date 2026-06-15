@@ -18,3 +18,5 @@ Graduate of Torrens University — Bachelor of Business (Marketing).
 - 🌑 [lnrtdka.drr.ac](https://lnrtdka.drr.ac/)
 - 💼 [linkedin.com/in/faizyasar](https://linkedin.com/in/faizyasar)
 - 🎨 [behance.net/faizyasar](https://behance.net/faizyasar)
+
+- https://tarot.drr.ac/
