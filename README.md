@@ -18,7 +18,7 @@ Graduate of Torrens University — Bachelor of Business (Marketing).
 - 🎨 [Behance](https://behance.net/faizyasar)
 - 🔮 [Arcade Tarot](https://tarot.drr.ac/)
 
-## W Sites
+## W Site
 http://www.ankokukoubou.com/font/
 
 
