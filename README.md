@@ -3,12 +3,14 @@
 Sydney-based marketer, graphic designer & photographer.
 Graduate of Torrens University — Bachelor of Business (Marketing).
 
+- 🔮 [Arcade Tarot](https://tarot.drr.ac/)
+
 ## Find me
 - 🌐 [General Portfolio](https://faiz.uwu.ai)
 - 🌑 [Art Portfolio](https://lnrtdka.drr.ac/)
 - 💼 [linkedin](https://linkedin.com/in/faizyasar)
-- 🎨 [behance](https://behance.net/faizyasar)
-- 🔮 [Arcade Tarot](https://tarot.drr.ac/)
+- 🎨 [Behance](https://behance.net/faizyasar)
+
 
 ## What I do
 - Creative strategy & integrated marketing communications
