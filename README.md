@@ -1,7 +1,10 @@
 # Faiz Yasar
 
-Sydney-based marketer, graphic designer & photographer.
-Graduate of Torrens University — Bachelor of Business (Marketing).
+Hello, my name is Faiz Yasar ☆
+
+I am a Sydney-based marketer, graphic designer & photographer.
+I'm a Graduate of Torrens University — Bachelor of Business (Marketing).
+I dabble in a thing or two
 
 - Creative strategy & integrated marketing communications
 - Graphic design & visual identity
